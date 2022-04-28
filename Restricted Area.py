@@ -25,7 +25,7 @@ LABELS = ['person','bicycle','car','motorbike','aeroplane','bus','train','truck'
 
 cap = cv2.VideoCapture('data/test.mp4')
 #cap = cv2.VideoCapture(0)
-net = cv2.dnn.readNetFromDarknet('cfg/yolov3.cfg', 'yolov3.weights')
+net = cv2.dnn.readNetFromDarknet('/home/yun/darknet/cfg/yolov3.cfg', '/home/yun/darknet/yolov3.weights')
 
 while cap.isOpened():
     ret, img = cap.read()
