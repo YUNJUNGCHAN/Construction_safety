@@ -1,2 +1,2 @@
 # Construction_safety
-Object detection for construction safety, via YOLOv3, OpenCV
+Object detection for construction safety, using YOLOv3, OpenCV
