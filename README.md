@@ -19,3 +19,7 @@ Copyright (c) 2022 YUNJUNGCHAN
    
 ![Result2](https://user-images.githubusercontent.com/101917321/166079890-9b882dfb-f2d9-4d1f-a11e-bb0547bfcdac.gif)
    
+동작 순서 : a) 사용자가 제한 구역을 지정(Polygon 지정) b) 사람(Person)이 제한 구역 안에 들어왔을 때, 초록색 박스로 강조 c) 터미널에 알림
+   
+환경   
+운영 처제 : 우분투 20.04 LTS
