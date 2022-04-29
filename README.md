@@ -14,3 +14,8 @@ Restricted Area
    
 이 코드를 오픈 소스로 공유한다. MIT라이선스에 따라 누구나 제한 없이 본 코드의 취급이 가능하다.   
 Copyright (c) 2022 YUNJUNGCHAN
+   
+
+   
+![Result2](https://user-images.githubusercontent.com/101917321/166079890-9b882dfb-f2d9-4d1f-a11e-bb0547bfcdac.gif)
+   
