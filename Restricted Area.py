@@ -7,17 +7,16 @@ from shapely.geometry import Point
 from shapely.geometry.polygon import Polygon
 
 #좌측 상단
-x1 = 600
-y1 = 400
+x1, y1 = 600, 400
+
 #우측 상단
-x2 = 1000
-y2 = 400
+x2, y2 = 1000, 400
+
 #우측 하단
-x3 = 1200
-y3 = 500
+x3, y3 = 1200, 500
+
 #좌측 하단
-x4 = 500
-y4 = 500
+x4, y4 = 500, 500
 
 CONFIDENCE = 0.01
 THRESHOLD = 0.01
