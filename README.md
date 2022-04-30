@@ -26,14 +26,15 @@ Copyright (c) 2022 YUNJUNGCHAN
    
 #### 환경 (*는 필수)   
 1. *Linux 우분투 20.04 LTS (Linux Ubuntu 20.04 LTS)   
-2. *CMake 2.23.1   
-3. *OpenCV 4.5.5   
-4. *Git
-5. Nvidia graphic driver 470.103.01   
-6. Nvidia CUDA toolkit 11.3   
-7. Nvidia CUDA Deep Neural Network library(cuDNN) 8.4.0    
-8. *AlexeyAB Darknet(YOLOv3) https://github.com/AlexeyAB/darknet
-9. Visual Studio Code, Vim   
+2. Python 3.8 이상
+3. *CMake 2.23.1   
+4. *OpenCV 4.5.5   
+5. *Git
+6. Nvidia graphic driver 470.103.01   
+7. Nvidia CUDA toolkit 11.3   
+8. Nvidia CUDA Deep Neural Network library(cuDNN) 8.4.0    
+9. *AlexeyAB Darknet(YOLOv3) https://github.com/AlexeyAB/darknet
+10. Visual Studio Code, Vim   
    
 #### 라이브러리
 1. OpenCV
