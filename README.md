@@ -40,7 +40,7 @@ Copyright (c) 2022 YUNJUNGCHAN
 #### 라이브러리
 1. Opencv
 2. Numpy, Pandas
-3. shapely
+3. Shapely
    
 #### 실행하기 전에   
 1. Line 27 : a) 'yolov3.cfg', b) 'yolov3.weights'를 코드에 연결해야 합니다. a)는 AlexeyAB의 Darknet를 컴파일(make)하면 생성될 것이고, b)는 https://pjreddie.com/media/files/yolov3.weights 에서 받으실 수 있습니다.   
