@@ -36,7 +36,7 @@ Copyright (c) 2022 YUNJUNGCHAN
 9. Visual Studio Code, Vim   
    
 #### 라이브러리
-1. Opencv
+1. OpenCV
 2. Numpy, Pandas
 3. Shapely
    
