@@ -24,6 +24,23 @@ Copyright (c) 2022 YUNJUNGCHAN
 2. 사람(Person)이 제한 구역 안에 들어왔을 때, 초록색 박스로 강조   
 3. 터미널에 알림   
    
+#### 환경 (*는 필수)   
+1. *Linux 우분투 20.04 LTS (Linux Ubuntu 20.04 LTS)   
+2. *CMake 2.23.1   
+3. *OpenCV 4.5.5   
+4. *Git
+5. 엔비디아 그래픽 드라이버 470.103.01   
+6. 엔비디아 CUDA toolkit 11.3   
+7. 엔비디아 CUDA Deep Neural Network library(cuDNN) 8.4.0    
+8. *AlexeyAB Darknet(YOLOv3) https://github.com/AlexeyAB/darknet
+9. Visual Studio Code, Vim   
+   
+#### 실행하기 전에   
+1. Line 27 : a) 'yolov3.cfg', b) 'yolov3.weights'를 코드에 연결해야 합니다. a)는 AlexeyAB의 Darknet를 컴파일(make)하면 생성될 것이고, b)는 https://pjreddie.com/media/files/yolov3.weights 에서 받으실 수 있습니다.   
+2. 주석으로 코드 설명을 정성과 함께 담았습니다.   
+   
+#### 실행    
+당신이 좋아하는 에디터(eg. VS Code) 또는, 기본 터미널에서 다음 명령어로 실행하실 수 있습니다.   
 
-#### 환경   
-운영 처제 : 우분투 20.04 LTS
+    $ python3 ./Restricted_Area.py
+   
