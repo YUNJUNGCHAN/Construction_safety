@@ -26,7 +26,7 @@ Copyright (c) 2022 YUNJUNGCHAN
    
 #### 환경 (*는 필수)   
 1. *Linux 우분투 20.04 LTS (Linux Ubuntu 20.04 LTS)   
-2. Python 3.8 이상
+2. Python 3.8.6
 3. *CMake 2.23.1   
 4. *OpenCV 4.5.5   
 5. *Git
