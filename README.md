@@ -58,7 +58,8 @@ Copyright (c) 2022 YUNJUNGCHAN
    
 #### References
    1. https://github.com/kairess/ANPR-with-Yolov4.git   
-   2. https://youtu.be/mmFrZV1iH0c   
-   3. 2021년 산업재해 발생현황 . (2022). https://www.kosha.or.kr/kosha/index.do.   
-   4. 한상우. (2022). 건설현장 안전관리자의 직무수행시 문제점에 관한 연구 : 건축공사를 중심으로(공학석사). 서울과학기술대학교 산업대학원
+   2. https://github.com/AlexeyAB/darknet   
+   3. https://youtu.be/mmFrZV1iH0c   
+   4. 2021년 산업재해 발생현황 . (2022). https://www.kosha.or.kr/kosha/index.do.   
+   5. 한상우. (2022). 건설현장 안전관리자의 직무수행시 문제점에 관한 연구 : 건축공사를 중심으로(공학석사). 서울과학기술대학교 산업대학원
     
