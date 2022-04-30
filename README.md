@@ -20,9 +20,9 @@ Copyright (c) 2022 YUNJUNGCHAN
 ![Result2](https://user-images.githubusercontent.com/101917321/166079890-9b882dfb-f2d9-4d1f-a11e-bb0547bfcdac.gif)
    
 #### 동작 순서   
-1. 사용자가 제한 구역을 지정(Polygon 좌표 지정)   
-2. 사람(Person)이 제한 구역 안에 들어왔을 때, 초록색 박스로 강조   
-3. 터미널에 알림   
+1. 사전에 사용자가 제한 구역을 설정(Polygon 좌표 지정)   
+2. 사람 객체(Person)가 제한 구역 안에 진입했을 시 밝은 초록색(0, 255, 0) 박스로 강조   
+3. 터미널에 '작업자가 제한 구역 안에 들어와 있습니다' 알림   
    
 #### 환경 (*는 필수)   
 1. *Linux 우분투 20.04 LTS (Linux Ubuntu 20.04 LTS)   
