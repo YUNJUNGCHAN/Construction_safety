@@ -51,4 +51,10 @@ Copyright (c) 2022 YUNJUNGCHAN
 
     $ python3 ./Restricted_Area.py
    
+#### 종료   
+'q'를 누르시면 코드가 Break 되어 종료됩니다.   
    
+    q   
+   
+   
+    
