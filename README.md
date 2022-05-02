@@ -43,7 +43,7 @@ Copyright (c) 2022 YUNJUNGCHAN
    
 #### 실행하기 전에   
 1. Line 27 : a) 'yolov3.cfg', b) 'yolov3.weights'를 코드에 연결해야 합니다. a)는 AlexeyAB의 Darknet를 컴파일(make)하면 생성될 것이고, b)는 https://pjreddie.com/media/files/yolov3.weights 에서 받으실 수 있습니다.   
-2. 주석으로 코드 설명과 정성을 담았습니다.   
+2. 주석으로 코드 설명과 정성을 담았습니다. 건축공학과 출신의 손맛을 느껴보세요!   
    
 #### 실행    
 에디터(eg. VS Code) 또는, 기본 터미널에서 다음 명령어로 실행하실 수 있습니다.   
